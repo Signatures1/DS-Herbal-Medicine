@@ -7,22 +7,22 @@ export const translations = {
     
     // Hero
     heroTitle: "D.S Herbel Medicine & Acupuncture",
-    heroSubtitle: "Dr. Haidong Zhang, R.TCMP & R. Ac",
-    heroDescription: "With 30 years of experience in Traditional Chinese Medicine, Dr. Zhang provides compassionate, personalized care for a wide range of health conditions.",
+    heroSubtitle: "Mr. Haidong Zhang, R.TCMP & R. Ac",
+    heroDescription: "With 30 years of experience in Traditional Chinese Medicine, Mr. Zhang provides compassionate, personalized care for a wide range of health conditions.",
     bookAppointment: "Book Appointment",
     viewServices: "View Services",
     
     // About
-    aboutTitle: "About Dr. Zhang",
+    aboutTitle: "About Mr. Zhang",
     aboutIntro: "Mr. Haidong Zhang, Ontario Registered Chinese Medicine practitioner and acupuncturist (R.TCMP & R.AC), brings 30 years of clinical and hospital experience in Chinese medicine and acupuncture. He graduated from the five-year program of Chinese medicine at Zhangjiakou Medical College (1988-1993) and furthered his studies in Endocrinology at Beijing 301 Hospital in 2001.",
-    aboutExperience: "After graduation, Dr. Zhang engaged in clinical work of TCM, acupuncture, and integrated traditional Chinese and Western medicine in the department of TCM at Baoding No. 1 Hospital, a Grade ⅢA hospital in China.",
+    aboutExperience: "After graduation, Mr. Zhang engaged in clinical work of TCM, acupuncture, and integrated traditional Chinese and Western medicine in the department of TCM at Baoding No. 1 Hospital, a Grade ⅢA hospital in China.",
     familyHeritage: "Family Heritage",
     familyHeritageText: "Mr. Zhang was born into a family of Chinese medicine practitioners. His father is a famous Chinese medicine doctor in North China, who often shares experience with him and provides guidance for special cases. Through oral transmission and heartfelt learning, Mr. Zhang has obtained all the traditional teachings, laying a solid foundation for his career.",
     continuingDevelopment: "Mr. Zhang is committed to continuously developing his professional knowledge and skills, providing comprehensive care across a wide range of conditions.",
     
     // Services
     servicesTitle: "Medical Specialties",
-    servicesDescription: "Dr. Zhang specializes in treating a comprehensive range of health conditions using Traditional Chinese Medicine techniques including acupuncture, herbal medicine, and more.",
+    servicesDescription: "Mr. Zhang specializes in treating a comprehensive range of health conditions using Traditional Chinese Medicine techniques including acupuncture, herbal medicine, and more.",
     
     // Service Categories
     spleenStomach: "Spleen and Stomach Diseases",
@@ -68,7 +68,7 @@ export const translations = {
     expectTechniques: "Traditional Chinese Medicine techniques",
     
     // Footer
-    footerTitle: "Dr. Haidong Zhang",
+    footerTitle: "Mr. Haidong Zhang",
     footerCredentials: "Registered Traditional Chinese Medicine Practitioner",
     footerContact: "Contact",
     footerPhone: "Phone: 416-918-8879",
@@ -77,7 +77,7 @@ export const translations = {
     footerCollege: "Zhangjiakou Medical College (1988-1993)",
     footerBeijing: "Beijing 301 Hospital (2001)",
     footerHospital: "Baoding No. 1 Hospital Grade ⅢA",
-    footerCopyright: "Dr. Haidong Zhang, R.TCMP & R. Ac. All rights reserved.",
+    footerCopyright: "Mr. Haidong Zhang, R.TCMP & R. Ac. All rights reserved.",
     footerServices: "Traditional Chinese Medicine • Acupuncture • Herbal Medicine"
   },
   
