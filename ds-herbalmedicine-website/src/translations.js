@@ -156,9 +156,9 @@ export const translations = {
     footerPhone: "电话：416-918-8879",
     footerExperience: "30年临床经验",
     footerProfessional: "专业资质",
-    footerCollege: "张家口医学院（1988-1993）",
-    footerBeijing: "北京301医院（2001）",
-    footerHospital: "保定市第一医院（三甲医院）",
+    footerCollege: "安大略省注册中医师",
+    footerBeijing: "安大略注册针灸师",
+    footerHospital: "",
     footerCopyright: "张海东医师，注册中医师及针灸师。版权所有。",
     footerServices: "传统中医 • 针灸 • 中药"
   }
