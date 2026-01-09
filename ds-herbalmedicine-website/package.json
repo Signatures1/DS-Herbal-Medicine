@@ -2,7 +2,7 @@
   "name": "ds-herbalmedicine-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://signatures1.github.io/Website-For-my-dad-",
+  "homepage": "https://signatures1.github.io/DS-Herbal-Medicine",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
